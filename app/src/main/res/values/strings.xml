@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Endeavor Virginia</string>
+    <string name="btn_login">Login</string>
+    <string name="email_hint">  Your Email</string>
+    <string name="pass_hint">  Your Password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="welcome">Welcome Back..!</string>
+    <string name="bottom_navbar_1">Dashboard</string>
+    <string name="bottom_navbar_2">Messages</string>
+    <string name="bottom_navbar_3">Profile</string>
+    <string name="home_opt_1">Rental History</string>
+    <string name="home_opt_2">Report History</string>
+    <string name="home_opt_3">Request Status</string>
+    <string name="home_opt_4">Report Problem</string>
+    <string name="home_opt_5">Maintenance</string>
+    <string name="home_opt_6">Payment</string>
+    <string name="main_screen_txt">A Road To Beautiful Home You Deserve !</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="report_edt1">Title</string>
+    <string name="report_edt2">Type your Problem</string>
+    <string name="err_report_edt1">Enter Title</string>
+    <string name="err_report_edt2">Enter Problem</string>
+    <string name="report_btn">Submit</string>
+    <string name="maintenance_edt1">Choose Category</string>
+    <string name="maintenance_edt2">Type your Request</string>
+    <string name="err_maintenance_edt1">Choose Category</string>
+    <string name="err_maintenance_edt2">Enter Request</string>
+    <string name="maintenance_btn1">Submit</string>
+    <string name="maintenance_btn2">Schedule</string>
+    <string name="request_title">REQUESTS</string>
+    <string name="request_opt1">Pending Requests</string>
+    <string name="request_opt2">Approved Requests</string>
+    <string name="request_opt3">Declined Requests</string>
+    <string name="request_opt4">Completed Requests</string>
+    <string name="custom_dialog_btn">OK</string>
+    <string name="utility_bills">Utility Bills</string>
+
+    <string-array name="category_array">
+        <item>Select Category</item>
+        <item>Electrical</item>
+        <item>Plumbing</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
